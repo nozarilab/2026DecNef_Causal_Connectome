@@ -1,0 +1,22 @@
+# Data and results (download the DecNef Collection; see README)
+Data
+Results
+DecNef_events
+DecNef_events_DC
+*.npz
+*.npy
+*.mat
+*.nii
+*.nii.gz
+
+# Third-party code and atlases (see README)
+External Packages and Files
+
+# Generated figures
+*.pdf
+*.png
+
+# Python / Jupyter / OS
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
